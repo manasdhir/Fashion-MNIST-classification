@@ -22,9 +22,9 @@
        * Kernel=linear
        * C=0.1
    * Model 2:
-        * kernel=rbf
+        * kernel=linear
         * c=0.1
-        * gamma=0.1
+        * gamma=0.01
 * The performance of the model is evaluated using the following metrics:
    * Accuracy
    * Precision
